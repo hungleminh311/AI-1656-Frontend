@@ -1,0 +1,128 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "StatsWithDescription"
+    },
+    {
+      "id": "StatsSplitWithImage"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "CtaSimpleJustified"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "FooterFourColumnWithNewsletterBelow"
+    },
+    {
+      "id": "FooterFourColumnWithNewsletter"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    },
+    {
+      "id": "FooterSocialLinksOnly"
+    },
+    {
+      "id": "NewsletterSimpleStacked"
+    },
+    {
+      "id": "NewsletterSimpleSideBySide"
+    },
+    {
+      "id": "NewsletterSideBySideOnCard"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "StatsSimple"
+    },
+    {
+      "id": "CtaTwoColumnsWithPhoto"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "CtaWithAppScreenshot"
+    },
+    {
+      "id": "TestimonialsOffWhiteGrid"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "HeroWithPhoneMockup"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "HeroWithPhoneMockup"
+    },
+    {
+      "id": "HeroWithAngledImageOnRight"
+    },
+    {
+      "id": "HeroSplitWithScreenshot"
+    },
+    {
+      "id": "HeroWithAngledImageOnRight"
+    },
+    {
+      "id": "HeroSplitWithScreenshot"
+    },
+    {
+      "id": "HeroSplitWithImage"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "font": "",
+  "theme": "neo-brutal",
+  "title": "Embrace Your Luck with Gamble",
+  "subtitle": "Step into a world where every bet is an adventure. Your next big win awaits—are you ready to take the plunge?"
+}
